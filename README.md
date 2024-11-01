@@ -3,17 +3,18 @@
 
 <details open>
   <summary><h2>Languages</h2></summary>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs,p5js,py,tensorflow,java,spring,php,mysql,postgres,r,lua,docker,ros,c,cpp,bash,sqlite,processing,arduino,vba&theme=dark&perline=14" alt="HTML, CSS, Java Script (jQuery, React, Three.js, jsARToolKit, p5.js, Node-Red, Johnny-Five), Python (scikit-learn, TensorFlow, Tweepy, NetworkX), Java (Spring), PHP, MySQL, PostgresSQL, R, Lua, MQTT, Docker, ROS, C, C++, Bash, SQLite, InfluxDB, GLSL, Scheme, Processing, Arduino, VBA">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs,p5js,py,tensorflow,java,spring,php,mysql,postgres,r,lua,docker,ros,c,cpp,bash,sqlite,latex,processing,arduino,vba&theme=dark&perline=14" alt="HTML, CSS, Java Script (jQuery, React, Three.js, jsARToolKit, p5.js, Node-Red, Johnny-Five), Python (scikit-learn, TensorFlow, Tweepy, NetworkX, BeamNGpy), Java (Spring), PHP, MySQL, PostgresSQL, R, Lua, MQTT, Docker, ROS, C, C++, Bash, SQLite, InfluxDB, GLSL, LaTeX, Scheme, Processing, Arduino, VBA">
   <br />
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/jsartoolkit.png" alt="jsARToolKit" width="5%">
-  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/nodered.png" alt="Node-Red" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/johnnyfive.png" alt="Johnny-Five" width="5%">
-  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/mqtt.png" alt="MQTT" width="5%">
-  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/influxdb.png" alt="InfluxDB" width="5%">
-  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/glsl.png" alt="GLSL" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/nodered.png" alt="Node-Red" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/scikitlearn.png" alt="scikit-learn" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/tweepy.png" alt="Tweepy" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/networkx.png" alt="NetworkX" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/beamngpy.png" alt="BeamNGpy" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/mqtt.png" alt="MQTT" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/influxdb.png" alt="InfluxDB" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/glsl.png" alt="GLSL" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/scheme.png" alt="Scheme" width="5%">
 </details>
 
