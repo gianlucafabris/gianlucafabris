@@ -19,7 +19,6 @@
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/cuda.png" alt="CUDA" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/influxdb.png" alt="InfluxDB" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/glsl.png" alt="GLSL" width="5%">
-  <br />
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/typst.png" alt="Typst" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/scheme.png" alt="Scheme" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/xml.png" alt="XML" width="5%">
