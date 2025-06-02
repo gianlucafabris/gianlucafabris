@@ -1,5 +1,5 @@
 <p><img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/title.png" alt="Gianluca Fabris" width="804" /></p>
-<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=6B9EE1&width=1200&height=40&lines=Full+stack+developer+%7C+Data+analyst+%7C+AI+specialist+%7C+Software+engineer;Coding+since+2017;Always+learning+new+things" alt="Autonomous driving specialist | Data analyst | AI specialist | Software engineer | Full stack developer, Coding since 2017, Always learning new things" width="804" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=6B9EE1&width=1200&height=40&lines=Autonomous+driving+specialist+%7C+Data+analyst+%7C+AI+specialist+%7C+Software+engineer+%7C+Full+stack+developer;Coding+since+2017;Always+learning+new+things" alt="Autonomous driving specialist | Data analyst | AI specialist | Software engineer | Full stack developer, Coding since 2017, Always learning new things" width="804" /></p>
 
 <details open>
   <summary><h2>Languages</h2></summary>
