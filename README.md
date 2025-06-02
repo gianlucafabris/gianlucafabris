@@ -1,9 +1,9 @@
 <p><img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/title.png" alt="Gianluca Fabris" width="804" /></p>
-<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=6B9EE1&width=1200&height=40&lines=Full+stack+developer+%7C+Data+analyst+%7C+AI+specialist+%7C+Software+engineer;Coding+since+2017;Always+learning+new+things" alt="Full stack developer | Data analyst | AI specialist | Software engineer, Coding since 2017, Always learning new things" width="804" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=6B9EE1&width=1200&height=40&lines=Full+stack+developer+%7C+Data+analyst+%7C+AI+specialist+%7C+Software+engineer;Coding+since+2017;Always+learning+new+things" alt="Autonomous driving specialist | Data analyst | AI specialist | Software engineer | Full stack developer, Coding since 2017, Always learning new things" width="804" /></p>
 
 <details open>
   <summary><h2>Languages</h2></summary>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs,p5js,py,tensorflow,pytorch,java,spring,php,mysql,postgres,r,lua,docker,ros,c,cpp,bash,sqlite,latex,processing,arduino,vba&theme=dark&perline=14" alt="HTML, CSS, Java Script (jQuery, React, Three.js, jsARToolKit, p5.js, Node-Red, Johnny-Five), Python (scikit-learn, TensorFlow, Pytorch, Tweepy, NetworkX, BeamNGpy), Java (Spring), PHP, MySQL, PostgresSQL, R, Lua, MQTT, Docker, ROS, C, C++, Bash, SQLite, InfluxDB, GLSL, LaTeX, Scheme, Processing, Arduino, VBA">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,threejs,p5js,py,tensorflow,pytorch,java,spring,php,mysql,postgres,r,lua,cs,docker,ros,git,rust,c,cpp,bash,sqlite,latex,processing,arduino,vba&theme=dark&perline=14" alt="HTML, CSS, Java Script (jQuery, React, Three.js, jsARToolKit, p5.js, Node-Red, Johnny-Five), Python (scikit-learn, TensorFlow, Pytorch, Tweepy, NetworkX, BeamNGpy), Java (Spring), PHP, MySQL, PostgresSQL, R, Lua, C#, MQTT, Docker, ROS, Git, Rust, C (Pthread, OpenMP, MPI), CUDA, C++, Bash, SQLite, InfluxDB, GLSL, LaTeX, Typst, Scheme, XML, Processing, Arduino, VBA">
   <br />
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/jsartoolkit.png" alt="jsARToolKit" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/johnnyfive.png" alt="Johnny-Five" width="5%">
@@ -13,9 +13,15 @@
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/networkx.png" alt="NetworkX" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/beamngpy.png" alt="BeamNGpy" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/mqtt.png" alt="MQTT" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/pthread.png" alt="Pthread" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/openmp.png" alt="OpenMP" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/mpi.png" alt="MPI" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/cuda.png" alt="CUDA" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/influxdb.png" alt="InfluxDB" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/glsl.png" alt="GLSL" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/typst.png" alt="Typst" width="5%">
   <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/scheme.png" alt="Scheme" width="5%">
+  <img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/xml.png" alt="XML" width="5%">
 </details>
 
 <details open>
