@@ -1,5 +1,5 @@
 <p><img src="https://github.com/gianlucafabris/gianlucafabris/blob/main/src/title.png" alt="Gianluca Fabris" width="804" /></p>
-<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=22A1F3&width=1200&height=40&lines=Autonomous+driving+vehicle+specialist+%7C+Data+analyst+%7C+Artificial+intelligence+specialist;Videogame+developer+%7C+Software+engineer+%7C+Full+stack+developer;Coding+since+2017;Always+learning+new+things" alt="Autonomous driving vehicle specialist | Data analyst | Artificial intelligence specialist, Videogame developer | Software engineer | Full stack developer, Coding since 2017, Always learning new things" width="804" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=22A1F3&width=1500&height=40&lines=Autonomous+driving+vehicle+specialist+%7C+Data+analyst+%7C+Artificial+intelligence+specialist;Videogame+developer+%7C+Software+engineer+%7C+Full+stack+developer;Coding+since+2017;Always+learning+new+things" alt="Autonomous driving vehicle specialist | Data analyst | Artificial intelligence specialist, Videogame developer | Software engineer | Full stack developer, Coding since 2017, Always learning new things" width="804" /></p>
 
 <details open>
   <summary><h2>Languages</h2></summary>
